@@ -1,3 +1,7 @@
+type SearchProps = {
+  loadUser: (userName: string)=> Promise<void>;
+};
+
 import { BsSearch } from "react-icons/bs";
 
 
