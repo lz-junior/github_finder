@@ -15,7 +15,7 @@ const Home = ()=> {
 
   return (
     <div>
-      <Search loadUser={loadUser}/>
+      <Search loadUser={loadUser} />
     </div>
   )
 };
