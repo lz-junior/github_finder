@@ -5,7 +5,6 @@ type SearchProps = {
 
 
 import { useState } from "react";
-
 import { BsSearch } from "react-icons/bs";
 
 
